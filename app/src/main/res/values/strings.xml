@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Smart Aquarium</string>
+    <string name="menu_favorite">Favoritos</string>
+    <string name="menu_music">Musicas</string>
+    <string name="menu_place">lugares</string>
+    <string name="menu_news">Notícias</string>
 </resources>
